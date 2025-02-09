@@ -1,2 +1,2 @@
 # earthquakes-and-volcanoes
-Repositiry for the MSc Thesis at the University pf London
+Repository for the MSc Thesis at the University of London
