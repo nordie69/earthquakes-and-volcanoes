@@ -1,0 +1,2 @@
+,Volcano_Number,geo_x,geo_y,Volcano_Name,Primary_Volcano_Type,Country,Region,Latitude,Longitude,Elevation,Tectonic_Setting,Evidence_Category,Major_Rock_Type,Erupting,Last_Activity_Year,geometry
+35,265090,129.881,-4.523,Banda Api,Caldera,Indonesia,Sunda-Banda Volcanic Regions,-4.523,129.881,596,Subduction zone / Oceanic crust (< 15 km),Eruption Observed,Dacite,True,1988,POINT (129.881 -4.523)

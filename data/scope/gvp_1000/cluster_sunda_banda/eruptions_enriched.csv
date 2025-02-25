@@ -1,0 +1,2 @@
+datetime,Unnamed: 0,Volcano_Number,Eruption_Number,Activity_Type,ExplosivityIndexMax,StartEvidenceMethod,StartDateYear,StartDateMonth,StartDateDay,EndDateYear,EndDateMonth,EndDateDay,StartDate,EndDate,EruptedVolume,DurationDays,DailyEruptedVolume,timeymd
+19880509,1071,265090,16420,Confirmed Eruption,3,Observations: Reported,1988,5,9,1988,5,17,1988-05-09,1988-05-17,50000000,9,5555555.555555556,19880509
