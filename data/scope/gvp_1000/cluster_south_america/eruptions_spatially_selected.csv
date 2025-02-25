@@ -1,0 +1,164 @@
+,Volcano_Number,Eruption_Number,Activity_Type,ExplosivityIndexMax,StartEvidenceMethod,StartDateYear,StartDateMonth,StartDateDay,EndDateYear,EndDateMonth,EndDateDay,StartDate,EndDate
+73,351020,20814,Confirmed Eruption,3,Observations: Reported,2012,2,22,2013,7,12,2012-02-22,2013-07-12
+74,351020,11289,Confirmed Eruption,1,Observations: Reported,1984,12,22,1985,3,19,1984-12-22,1985-03-19
+75,351020,11290,Confirmed Eruption,3,Observations: Reported,1985,9,11,1991,7,13,1985-09-11,1991-07-13
+76,351020,20995,Confirmed Eruption,2,Observations: Reported,2014,11,18,2024,12,19,2014-11-18,2024-12-19
+77,351050,11312,Confirmed Eruption,3,Observations: Reported,2007,2,19,2007,5,28,2007-02-19,2007-05-28
+78,351050,11313,Confirmed Eruption,2,Observations: Reported,2008,1,2,2008,4,16,2008-01-02,2008-04-16
+79,351050,11314,Confirmed Eruption,3,Observations: Reported,2008,10,26,2012,1,14,2008-10-26,2012-01-14
+80,357030,11924,Uncertain Eruption,2,unknown,1994,1,15,1994,1,15,1994-01-15,1994-01-15
+81,357040,22297,Confirmed Eruption,1,Observations: Reported,2018,11,7,2019,5,7,2018-11-07,2019-05-07
+82,357040,20808,Confirmed Eruption,2,Observations: Reported,2011,2,17,2011,6,26,2011-02-17,2011-06-26
+83,357040,11945,Confirmed Eruption,2,Observations: Reported,1991,2,9,1991,3,2,1991-02-09,1991-03-02
+84,357040,11946,Confirmed Eruption,1,Observations: Reported,1998,11,18,1998,11,21,1998-11-18,1998-11-21
+85,357040,11947,Confirmed Eruption,2,Observations: Reported,2010,9,6,2010,10,13,2010-09-06,2010-10-13
+86,357070,22119,Confirmed Eruption,2,Observations: Reported,2016,1,8,2022,10,17,2016-01-08,2022-10-17
+87,357070,11991,Confirmed Eruption,2,Observations: Reported,1973,7,16,1986,7,2,1973-07-16,1986-07-02
+88,357070,11992,Confirmed Eruption,1,Observations: Reported,2003,8,29,2003,9,15,2003-08-29,2003-09-15
+89,357091,11997,Confirmed Eruption,1,Observations: Reported,1980,10,16,1980,10,16,1980-10-16,1980-10-16
+179,355040,11828,Confirmed Eruption,2,Observations: Reported,1995,9,1,1995,9,26,1995-09-01,1995-09-26
+293,354006,11747,Confirmed Eruption,1,Observations: Reported,1986,12,16,1986,12,16,1986-12-16,1986-12-16
+294,354006,21089,Confirmed Eruption,1,Observations: Aviation,2015,3,8,2015,12,12,2015-03-08,2015-12-12
+295,354006,22158,Confirmed Eruption,3,Observations: Reported,2016,11,6,2024,12,19,2016-11-06,2024-12-19
+296,354006,11748,Uncertain Eruption,2,unknown,1987,8,7,1987,8,7,1987-08-07,1987-08-07
+297,354006,11749,Confirmed Eruption,1,Observations: Reported,1988,6,22,1988,10,16,1988-06-22,1988-10-16
+298,354006,11750,Confirmed Eruption,3,Observations: Reported,1990,5,28,1998,9,16,1990-05-28,1998-09-16
+299,354006,11751,Confirmed Eruption,2,Observations: Reported,2000,4,16,2000,10,29,2000-04-16,2000-10-29
+300,354006,11752,Confirmed Eruption,2,Observations: Reported,2003,7,30,2003,7,31,2003-07-30,2003-07-31
+301,354006,20953,Uncertain Eruption,1,Observations: Reported,2014,8,5,2014,12,27,2014-08-05,2014-12-27
+302,354010,11774,Confirmed Eruption,1,Observations: Reported,1985,7,2,1985,7,2,1985-07-02,1985-07-02
+303,354020,22324,Confirmed Eruption,2,Observations: Reported,2019,6,24,2019,9,12,2019-06-24,2019-09-12
+304,354020,20832,Confirmed Eruption,2,Observations: Reported,2013,9,1,2016,2,27,2013-09-01,2016-02-27
+305,354020,22181,Confirmed Eruption,2,Observations: Reported,2016,9,13,2017,3,2,2016-09-13,2017-03-02
+306,354020,11791,Confirmed Eruption,2,Observations: Reported,2006,3,25,2009,7,4,2006-03-25,2009-07-04
+307,354020,11792,Uncertain Eruption,1,Observations: Aviation,2010,7,18,2010,7,18,2010-07-18,2010-07-18
+432,352050,21088,Confirmed Eruption,2,Observations: Reported,2015,8,14,2016,1,24,2015-08-14,2016-01-24
+433,352080,22214,Confirmed Eruption,2,Observations: Reported,2011,4,20,2011,5,26,2011-04-20,2011-05-26
+434,352080,22215,Confirmed Eruption,3,Observations: Reported,2012,12,14,2016,3,16,2012-12-14,2016-03-16
+435,352080,11642,Uncertain Eruption,1,unknown,1993,5,6,1993,5,6,1993-05-06,1993-05-06
+436,352080,11643,Confirmed Eruption,3,Observations: Reported,1999,10,5,2009,7,8,1999-10-05,2009-07-08
+437,352080,11644,Confirmed Eruption,3,Observations: Reported,2010,1,1,2010,8,1,2010-01-01,2010-08-01
+438,352080,11645,Confirmed Eruption,3,Observations: Reported,2010,11,22,2011,1,2,2010-11-22,2011-01-02
+439,352090,22231,Confirmed Eruption,2,Observations: Reported,2017,7,20,2017,10,19,2017-07-20,2017-10-19
+440,352090,22234,Confirmed Eruption,2,Observations: Reported,2011,6,6,2012,9,19,2011-06-06,2012-09-19
+441,352090,22235,Confirmed Eruption,2,Observations: Reported,2013,1,25,2013,5,24,2013-01-25,2013-05-24
+442,352090,22236,Confirmed Eruption,2,Observations: Reported,2015,1,18,2015,4,7,2015-01-18,2015-04-07
+443,352090,22237,Confirmed Eruption,2,Observations: Satellite (infrared),2016,3,17,2016,11,17,2016-03-17,2016-11-17
+444,352090,11648,Confirmed Eruption,3,Observations: Reported,1934,8,8,2011,3,2,1934-08-08,2011-03-02
+445,352090,22259,Confirmed Eruption,1,Observations: Reported,2018,2,25,2018,2,25,2018-02-25,2018-02-25
+446,352090,22283,Confirmed Eruption,2,Observations: Reported,2018,8,8,2018,12,7,2018-08-08,2018-12-07
+447,352090,22312,Confirmed Eruption,2,Observations: Reported,2019,3,26,2024,12,19,2019-03-26,2024-12-19
+448,358057,20770,Confirmed Eruption,2,Observations: Reported,2011,10,26,2011,11,1,2011-10-26,2011-11-01
+449,358057,12298,Confirmed Eruption,3,Observations: Reported,1971,8,12,1971,9,18,1971-08-12,1971-09-18
+450,358057,12299,Confirmed Eruption,5,Observations: Reported,1991,8,8,1991,10,27,1991-08-08,1991-10-27
+451,358060,12320,Confirmed Eruption,1,Observations: Reported,1972,7,2,1972,7,2,1972-07-02,1972-07-02
+452,358060,12321,Confirmed Eruption,1,Observations: Reported,1978,6,16,1978,6,16,1978-06-16,1978-06-16
+453,358060,12322,Confirmed Eruption,2,Observations: Reported,1979,3,8,1979,3,8,1979-03-08,1979-03-08
+543,357090,22336,Confirmed Eruption,2,Observations: Reported,2019,8,2,2019,11,12,2019-08-02,2019-11-12
+544,357090,21098,Confirmed Eruption,2,Observations: Reported,2015,9,18,2017,2,22,2015-09-18,2017-02-22
+545,357090,22232,Confirmed Eruption,1,Observations: Reported,2017,6,4,2018,12,7,2017-06-04,2018-12-07
+546,357090,12008,Confirmed Eruption,2,Observations: Reported,1992,7,22,1993,7,2,1992-07-22,1993-07-02
+547,357090,12009,Confirmed Eruption,2,Observations: Reported,1994,12,16,1994,12,16,1994-12-16,1994-12-16
+548,357090,12010,Confirmed Eruption,2,Observations: Reported,1995,9,16,1995,9,16,1995-09-16,1995-09-16
+549,357090,12011,Confirmed Eruption,2,Observations: Reported,2000,7,1,2000,10,18,2000-07-01,2000-10-18
+550,357090,20954,Confirmed Eruption,1,Observations: Reported,2014,7,4,2014,12,2,2014-07-04,2014-12-02
+551,357090,20760,Confirmed Eruption,2,Observations: Reported,2012,12,22,2013,12,10,2012-12-22,2013-12-10
+552,357090,22507,Confirmed Eruption,2,Observations: Reported,2012,7,17,2012,7,19,2012-07-17,2012-07-19
+553,357100,12016,Confirmed Eruption,3,Observations: Reported,1988,12,25,1990,1,24,1988-12-25,1990-01-24
+554,357110,12074,Confirmed Eruption,1,Observations: Reported,2002,10,13,2002,10,13,2002-10-13,2002-10-13
+555,357110,12075,Confirmed Eruption,2,Observations: Reported,2003,4,9,2003,4,16,2003-04-09,2003-04-16
+556,357110,12076,Confirmed Eruption,2,Observations: Reported,2007,5,26,2007,8,8,2007-05-26,2007-08-08
+557,357110,12077,Confirmed Eruption,3,Observations: Reported,2008,1,1,2009,6,12,2008-01-01,2009-06-12
+558,357110,12068,Confirmed Eruption,1,Observations: Reported,1992,8,23,1992,9,2,1992-08-23,1992-09-02
+559,357110,12069,Confirmed Eruption,2,Observations: Reported,1994,5,17,1994,8,30,1994-05-17,1994-08-30
+560,357110,12070,Confirmed Eruption,2,Observations: Reported,1995,10,13,1995,10,22,1995-10-13,1995-10-22
+561,357110,12071,Confirmed Eruption,1,Observations: Reported,1997,3,16,1997,10,16,1997-03-16,1997-10-16
+562,357110,12072,Confirmed Eruption,2,Observations: Reported,1998,4,3,1998,4,23,1998-04-03,1998-04-23
+563,357110,12073,Confirmed Eruption,2,Observations: Reported,1998,11,10,1998,11,10,1998-11-10,1998-11-10
+564,357110,12064,Confirmed Eruption,2,Observations: Reported,1971,12,1,1972,3,12,1971-12-01,1972-03-12
+565,357110,12065,Confirmed Eruption,2,Observations: Reported,1979,10,15,1979,11,28,1979-10-15,1979-11-28
+566,357110,12066,Confirmed Eruption,2,Observations: Reported,1984,4,20,1984,11,26,1984-04-20,1984-11-26
+567,357110,12067,Confirmed Eruption,1,Observations: Reported,1990,2,25,1990,11,25,1990-02-25,1990-11-25
+568,357120,20837,Uncertain Eruption,1,Observations: Reported,2012,11,14,2012,11,14,2012-11-14,2012-11-14
+569,357120,20838,Confirmed Eruption,1,Observations: Reported,2013,7,25,2013,7,29,2013-07-25,2013-07-29
+570,357120,12184,Confirmed Eruption,1,Observations: Reported,2009,11,22,2012,4,20,2009-11-22,2012-04-20
+571,357120,12178,Confirmed Eruption,1,Observations: Reported,1996,9,14,1997,8,16,1996-09-14,1997-08-16
+572,357120,12179,Confirmed Eruption,1,Observations: Reported,1998,2,24,2002,6,16,1998-02-24,2002-06-16
+573,357120,12180,Confirmed Eruption,1,Observations: Reported,2003,5,23,2004,3,25,2003-05-23,2004-03-25
+574,357120,12181,Confirmed Eruption,1,Observations: Reported,2004,8,5,2007,12,24,2004-08-05,2007-12-24
+575,357120,12182,Confirmed Eruption,1,Observations: Reported,2008,10,26,2008,10,26,2008-10-26,2008-10-26
+576,357120,12183,Confirmed Eruption,1,Observations: Reported,2009,1,29,2009,3,24,2009-01-29,2009-03-24
+577,357120,12172,Confirmed Eruption,1,Observations: Reported,1994,9,26,1994,12,30,1994-09-26,1994-12-30
+578,357120,12173,Confirmed Eruption,1,Observations: Reported,1995,4,15,1995,6,2,1995-04-15,1995-06-02
+579,357120,12174,Confirmed Eruption,1,Observations: Reported,1996,1,16,1996,1,16,1996-01-16,1996-01-16
+580,357120,12169,Confirmed Eruption,2,Observations: Reported,1984,8,11,1985,11,18,1984-08-11,1985-11-18
+581,357120,12170,Confirmed Eruption,2,Observations: Reported,1991,8,30,1991,9,17,1991-08-30,1991-09-17
+582,357120,12171,Confirmed Eruption,1,Observations: Reported,1992,9,11,1992,12,16,1992-09-11,1992-12-16
+583,357120,20996,Confirmed Eruption,3,Observations: Reported,2014,12,2,2024,12,13,2014-12-02,2024-12-13
+584,357120,12165,Confirmed Eruption,2,Observations: Reported,1971,10,29,1972,2,21,1971-10-29,1972-02-21
+585,357120,12166,Confirmed Eruption,1,Observations: Reported,1977,1,26,1977,1,30,1977-01-26,1977-01-30
+586,357120,12167,Confirmed Eruption,2,Observations: Reported,1980,6,20,1980,9,24,1980-06-20,1980-09-24
+587,357120,12168,Confirmed Eruption,1,Observations: Reported,1983,10,14,1983,10,16,1983-10-14,1983-10-16
+588,357140,12189,Confirmed Eruption,2,Observations: Reported,1979,4,14,1979,5,20,1979-04-14,1979-05-20
+589,357150,20809,Confirmed Eruption,5,Observations: Reported,2011,6,4,2012,4,21,2011-06-04,2012-04-21
+590,357150,12216,Confirmed Eruption,1,Observations: Reported,1990,7,2,1990,7,2,1990-07-02,1990-07-02
+654,351060,11339,Confirmed Eruption,2,Observations: Reported,1977,3,19,1977,3,28,1977-03-19,1977-03-28
+655,351080,20764,Confirmed Eruption,2,Observations: Reported,2012,5,13,2014,1,30,2012-05-13,2014-01-30
+656,351080,11376,Confirmed Eruption,1,Observations: Reported,2002,6,7,2002,6,7,2002-06-07,2002-06-07
+657,351080,11377,Confirmed Eruption,3,Observations: Reported,2004,7,16,2005,2,7,2004-07-16,2005-02-07
+658,351080,11378,Confirmed Eruption,2,Observations: Reported,2005,11,24,2006,7,12,2005-11-24,2006-07-12
+659,351080,11379,Confirmed Eruption,3,Observations: Reported,2007,10,4,2008,1,17,2007-10-04,2008-01-17
+660,351080,11380,Confirmed Eruption,3,Observations: Reported,2008,10,21,2010,1,2,2008-10-21,2010-01-02
+661,351080,11381,Confirmed Eruption,1,Observations: Reported,2010,8,25,2010,8,25,2010-08-25,2010-08-25
+662,351080,11370,Uncertain Eruption,2,unknown,1973,5,16,1973,5,16,1973-05-16,1973-05-16
+663,351080,11371,Confirmed Eruption,1,Observations: Reported,1974,7,2,1983,7,2,1974-07-02,1983-07-02
+664,351080,11372,Confirmed Eruption,2,Observations: Reported,1989,2,19,1989,5,9,1989-02-19,1989-05-09
+665,351080,11373,Confirmed Eruption,2,Observations: Reported,1990,1,7,1992,7,16,1990-01-07,1992-07-16
+666,351080,11374,Confirmed Eruption,2,Observations: Reported,1993,1,14,1993,6,7,1993-01-14,1993-06-07
+667,351080,11375,Confirmed Eruption,1,Observations: Reported,2000,3,21,2000,5,18,2000-03-21,2000-05-18
+766,352010,11448,Confirmed Eruption,2,Observations: Reported,2007,3,15,2007,10,11,2007-03-15,2007-10-11
+767,352010,11449,Confirmed Eruption,2,Observations: Reported,2008,7,27,2024,12,19,2008-07-27,2024-12-19
+768,352010,11443,Confirmed Eruption,2,Observations: Reported,1972,7,16,1972,9,16,1972-07-16,1972-09-16
+769,352010,11444,Confirmed Eruption,3,Observations: Reported,1973,11,16,1974,7,16,1973-11-16,1974-07-16
+770,352010,11445,Confirmed Eruption,2,Observations: Reported,1976,1,4,1976,5,16,1976-01-04,1976-05-16
+771,352010,11446,Confirmed Eruption,4,Observations: Reported,2002,11,3,2003,1,10,2002-11-03,2003-01-10
+772,352010,11447,Confirmed Eruption,2,Observations: Reported,2004,11,7,2006,3,16,2004-11-07,2006-03-16
+773,352020,11498,Confirmed Eruption,1,Observations: Reported,2002,4,16,2002,4,16,2002-04-16,2002-04-16
+774,352020,11499,Confirmed Eruption,1,Observations: Reported,2002,10,11,2002,12,7,2002-10-11,2002-12-07
+775,352020,11500,Uncertain Eruption,1,unknown,2003,4,17,2003,4,17,2003-04-17,2003-04-17
+776,352020,11501,Uncertain Eruption,1,unknown,2008,2,1,2008,2,1,2008-02-01,2008-02-01
+777,352020,11502,Uncertain Eruption,1,unknown,2009,2,16,2009,2,17,2009-02-16,2009-02-17
+778,352020,11492,Confirmed Eruption,1,Observations: Reported,1985,5,16,1985,6,16,1985-05-16,1985-06-16
+779,352020,11493,Confirmed Eruption,1,Observations: Reported,1990,4,16,1990,5,10,1990-04-16,1990-05-10
+780,352020,11494,Confirmed Eruption,1,Observations: Reported,1993,3,9,1993,3,12,1993-03-09,1993-03-12
+781,352020,11495,Confirmed Eruption,1,Observations: Reported,1997,3,16,1997,10,18,1997-03-16,1997-10-18
+782,352020,11496,Confirmed Eruption,3,Observations: Reported,1998,8,7,2001,5,25,1998-08-07,2001-05-25
+783,352020,11497,Confirmed Eruption,1,Observations: Reported,2001,11,26,2001,11,26,2001-11-26,2001-11-26
+784,352020,11491,Confirmed Eruption,1,Observations: Reported,1981,8,31,1982,11,16,1981-08-31,1982-11-16
+811,355107,11843,Uncertain Eruption,1,unknown,1990,4,24,1990,4,24,1990-04-24,1990-04-24
+812,355100,22110,Confirmed Eruption,2,Observations: Reported,2015,10,30,2017,4,2,2015-10-30,2017-04-02
+813,355100,20789,Confirmed Eruption,1,Observations: Reported,2013,4,2,2013,11,20,2013-04-02,2013-11-20
+814,355100,11873,Confirmed Eruption,2,Observations: Reported,2000,7,20,2001,1,18,2000-07-20,2001-01-18
+815,355100,11875,Confirmed Eruption,2,Observations: Reported,2002,10,26,2002,10,27,2002-10-26,2002-10-27
+816,355100,11876,Uncertain Eruption,1,unknown,2003,12,9,2003,12,9,2003-12-09,2003-12-09
+817,355100,11877,Confirmed Eruption,3,Observations: Reported,2005,5,4,2005,5,4,2005-05-04,2005-05-04
+818,355100,11878,Confirmed Eruption,3,Observations: Reported,2006,4,18,2007,7,18,2006-04-18,2007-07-18
+819,355100,11867,Confirmed Eruption,2,Observations: Reported,1991,10,21,1992,5,23,1991-10-21,1992-05-23
+820,355100,11868,Confirmed Eruption,4,Observations: Reported,1993,1,30,1993,8,16,1993-01-30,1993-08-16
+821,355100,11869,Confirmed Eruption,2,Observations: Reported,1993,12,17,1994,2,27,1993-12-17,1994-02-27
+822,355100,11870,Confirmed Eruption,2,Observations: Reported,1994,7,20,1994,7,26,1994-07-20,1994-07-26
+823,355100,11871,Confirmed Eruption,2,Observations: Reported,1994,11,13,1995,7,20,1994-11-13,1995-07-20
+824,355100,11872,Confirmed Eruption,2,Observations: Reported,1996,10,18,1996,10,18,1996-10-18,1996-10-18
+825,355100,11861,Uncertain Eruption,2,unknown,1972,7,2,1972,7,2,1972-07-02,1972-07-02
+826,355100,11862,Uncertain Eruption,1,unknown,1974,7,16,1974,9,16,1974-07-16,1974-09-16
+827,355100,11864,Confirmed Eruption,3,Observations: Reported,1986,9,14,1986,9,16,1986-09-14,1986-09-16
+828,355100,11865,Confirmed Eruption,3,Observations: Reported,1987,11,16,1990,4,6,1987-11-16,1990-04-06
+829,355100,11866,Confirmed Eruption,1,Observations: Reported,1990,11,24,1990,11,24,1990-11-24,1990-11-24
+830,355130,11883,Uncertain Eruption,1,unknown,1993,11,14,1993,11,14,1993-11-14,1993-11-14
+831,355160,11884,Uncertain Eruption,2,unknown,1993,3,28,1993,3,28,1993-03-28,1993-03-28
+1006,358041,12271,Confirmed Eruption,4,Observations: Reported,2008,5,2,2011,5,31,2008-05-02,2011-05-31
+1069,358020,12263,Confirmed Eruption,2,Observations: Reported,1972,8,26,1972,8,26,1972-08-26,1972-08-26
+1070,358020,21076,Confirmed Eruption,4,Observations: Reported,2015,4,22,2015,5,26,2015-04-22,2015-05-26
+1249,357010,11899,Confirmed Eruption,2,Observations: Reported,1987,11,28,1987,11,30,1987-11-28,1987-11-30
+1250,357010,20561,Confirmed Eruption,2,Observations: Reported,1980,1,10,1980,1,11,1980-01-10,1980-01-11
+1251,357010,11898,Confirmed Eruption,1,Observations: Reported,1986,1,20,1986,1,20,1986-01-20,1986-01-20
