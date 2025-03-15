@@ -15,6 +15,8 @@ The directory structure gives an overview about the data and the structure.
 <pre>
 root
 |  
++ log
++ shapefiles  
 + data
   |
   + scope
@@ -41,3 +43,24 @@ root
       + cluster_Cluster_5
       + cluster_Cluster_6
 </pre>
+
+## Scripts
+The following table gives a short overview about the used Python scripts. These are ordered to ensure the correct workflow order when executed.
+
+| Script Name                                           | Explanation |
+|-------------------------------------------------------|-------------|
+| 00_github_push_workflow.ipynb                         | Pushing ANYTHING for backup reasons to a GitHib repository |
+| 10_scrape_earthquake_data.ipynb                       | Scrape earthquake data from the USGS |
+| 11_scrape_volcanic_eruption_data.ipynb                | Scarpe volcanic and eruption data from the Smithsonian Institution |
+| 20_engineer_earthquake_data.ipynb                     | Clean and engineer earthquake datasets |
+| 21_engineer_volcanic_eruption_data.ipynb              | Clean and engineer volcanic datasets |
+| 251_spatial_operations_studyarea.ipynb                | Cluster operations for the complete studyarea with 1000 km buffer |
+| 252_spatial_operations_gvp_1000.ipynb                 | Cluster operations for the original GVP clusters with 1000 km buffer |
+| 253_spatial_operations_gvp_reclustering.ipynb         | Cluster operations for the re-clustering with 1000 km buffer |
+| 30_create_earthquake_timeseries.ipynb                 | Create earthquake time series |
+| 31_create_volcanic_eruption_timeseries.ipynb          | Create volcanic time series |
+| 40_eda_earthquakes.ipynb                              | Provide an EDA analysis for earthquqakes |
+| 41_eda_volcanic_eruptions.ipynb                       | Provide an EDA analysis for volcanic data |
+| 50_timeseries_analysis.ipynb                          | Analysis a time series (both earthquake or volcanic data |
+| parameters.py                                         | Flexible parameterisation for all scripts |
+| shared_procedures.py                                  | Shared procedures for all scripts |
