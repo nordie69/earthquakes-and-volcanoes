@@ -48,7 +48,8 @@ The following table gives a short overview about the used Python scripts. These 
 
 | Script Name                                           | Explanation |
 |-------------------------------------------------------|-------------|
-| 00_github_push_workflow.ipynb                         | Pushing ANYTHING for backup reasons to a GitHib repository |
+| parameters.py                                         | Flexible parameterisation for all scripts |
+| shared_procedures.py                                  | Shared procedures for all scripts |
 | 10_scrape_earthquake_data.ipynb                       | Scrape earthquake data from the USGS |
 | 11_scrape_volcanic_eruption_data.ipynb                | Scarpe volcanic and eruption data from the Smithsonian Institution |
 | 20_engineer_earthquake_data.ipynb                     | Clean and engineer earthquake datasets |
@@ -61,5 +62,5 @@ The following table gives a short overview about the used Python scripts. These 
 | 40_eda_earthquakes.ipynb                              | Provide an EDA analysis for earthquqakes |
 | 41_eda_volcanic_eruptions.ipynb                       | Provide an EDA analysis for volcanic data |
 | 50_timeseries_analysis.ipynb                          | Analysis a time series (both earthquake or volcanic data |
-| parameters.py                                         | Flexible parameterisation for all scripts |
-| shared_procedures.py                                  | Shared procedures for all scripts |
+| 00_github_push_workflow.ipynb                         | Pushing ANYTHING for backup reasons to a GitHub repository |
+
