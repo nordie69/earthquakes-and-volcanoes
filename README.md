@@ -1,8 +1,5 @@
 # Enhancing Predictability of Volcanic Eruptions at the Pacific Ring of Fire: Using Localised Cross-Correlated Time Series with Re-Clustered Volcanic Regions
 
-## Repository
-Repository for the Final Project Report (Thesis) submitted as the examined coursework of the module DSM500 Final project of MSc Data Science and  Artificial Intelligence (DSAI) at the University of London.
-
 ## Abstract
 Earthquakes can trigger volcanic eruptions by altering stress in the surrounding crust. This study enhances volcanic eruption forecasting in the Pacific Ring of Fire by analysing seismic-volcanic interactions. Using localized geoscientific data, it prioritizes seismic key features and refines data engineering to integrate historical time series. In a data-driven way, it examines feature combinations, time lags, and unsupervised clustering for reclassifying volcanic regions. Spanning 1970–2019, it employs statistical tests, cross-correlation analysis, and re-clustering to improve volcanic region classification with a robust, validated approach.
 
@@ -10,7 +7,11 @@ The study identified region-specific differences by changepoint detection and au
 
 Aiming for a global eruption forecasting model, future work should explore advanced forecasting algorithms, additional clustering techniques, and causal inference methods, fostering overall disaster preparedness.
 
+## Repository
+Repository for the Final Project Report (Thesis) submitted as the examined coursework of the module DSM500 Final project of MSc Data Science and  Artificial Intelligence (DSAI) at the University of London. This repository completely lists the Python scripts together with the scraped raw data and all results to ensure a transparent and reproducible research.
+
 ## Directory structure
+The directory structure gives an overview about the data and the structure.
 <pre>
 root
 |  
@@ -39,5 +40,4 @@ root
       + cluster_Cluster_4
       + cluster_Cluster_5
       + cluster_Cluster_6
-  
 </pre>
