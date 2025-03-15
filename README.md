@@ -15,7 +15,6 @@ The directory structure gives an overview about the data and the structure.
 <pre>
 root
 |  
-+ log
 + shapefiles  
 + data
   |
