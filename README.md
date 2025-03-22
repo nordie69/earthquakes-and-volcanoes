@@ -46,6 +46,21 @@ root
 ### Scripts
 The following table gives a short overview about the used Python scripts. These are ordered to ensure the correct workflow order when executed.
 
+#### Groups
+There are xxx group of scripts:
+
++ no_number: basic parameters and procedures.
++ 1x: Scraping data from the original data sources.
++ 2x: Cleaning and engineering the data.
++ 25x: Spatial operations to (re-) group the volcanic data.
++ 3x: Time series building.
++ 4x: EDA (for both earthquake and volcanic data).
++ 5x: Time series analysis.
+
+Also, the scripts are ordered due to their trailing numbers which indicate their position in the workflow.
+
+#### Listing
+
 | Script Name                                           | Explanation |
 |-------------------------------------------------------|-------------|
 | parameters.py                                         | Flexible parameterisation for all scripts |
