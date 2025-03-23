@@ -96,4 +96,4 @@ There are 2 general groups of basic datasets and each datafile is listed in the 
 Additional subsets of these datasets, according to the clustering, are stored within the appropriate subdirectories of the scope-section (see table above).
 
 #### Time series
-All generated time series are also stored within the scopes-section. There are alway 2 multi feature time series files: *eq_ts_yearly.cvs* and *erupt_ts_yearly.csv*.
+All generated time series are also stored within the scope-section. There are always 2 multi feature time series files: *eq_ts_yearly.cvs* and *erupt_ts_yearly.csv*.
