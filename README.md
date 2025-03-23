@@ -79,3 +79,21 @@ Also, the scripts are ordered due to their trailing numbers which indicate their
 | 50_timeseries_analysis.ipynb                          | Analysis a time series (both earthquake or volcanic data |
 | 00_github_push_workflow.ipynb                         | Pushing ANYTHING for backup reasons to a GitHub repository |
 
+### Datasets
+#### Basic datasets
+There are 2 general groups of basic datasets and each datafile is listed in the following table:
+
+| Datafile                 | Explanation              |
+|--------------------------|--------------------------|
+| earthquakes_scraped.csv  | Scraped earthquake data  |
+| eruptions_scraped.csv    | Scraped eruption data    |
+| volcanoes_scraped.csv    | Scraped volcano data     |
+| earthquakes_selected.csv | Selected earthquake data |
+| eruptions_selected.csv   | Selected eruptions data  |
+| volcanoes_selected.csv   | Selected volcano data    |
+
+#### Clustered datasets
+Additional subsets of these datasets, according to the clustering, are stored within the appropriate subdirectories of the scope-section (see table above).
+
+#### Time series
+All generated time series are also stored within the scopes-section. There are alway 2 multi feature time series files: *eq_ts_yearly.cvs* and *erupt_ts_yearly.csv*.
